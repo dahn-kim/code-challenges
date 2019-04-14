@@ -1,6 +1,6 @@
-# code-challenges
+# Python code challenges aka final exam 
 
-This codes are my code answers to the python coding exam by Shortcut Catalyst Programming course. 
+These codes are my code answers to the python coding exam by Shortcut Catalyst Programming course. 
 
 ### The exam consited of two parts: 
 1. theory exam submitted via Google sheet 
